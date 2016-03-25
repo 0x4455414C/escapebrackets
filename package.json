@@ -1,0 +1,30 @@
+{
+  "name": "escapebrackets",
+  "version": "0.0.1",
+  "description": "Escapes square brackets in a string, useful for queries and other such things",
+  "main": "escapebrackets",
+  "scripts": {
+    "test": "node escapeBrackets"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dual1tyx/escapebrackets.git"
+  },
+  "keywords": [
+    "regex",
+    "query",
+    "sql",
+    "escape",
+    "bracket",
+    "square",
+    "output",
+    "input",
+    "js"
+  ],
+  "author": "dual1ty <dual1tyx@hotmail.co.uk> (http://dual1ty.me)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/dual1tyx/escapebrackets/issues"
+  },
+  "homepage": "https://github.com/dual1tyx/escapebrackets#readme"
+}
